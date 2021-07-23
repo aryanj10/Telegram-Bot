@@ -3,7 +3,7 @@ import pandas as pd
 from cowin_api import CoWinAPI
 from nsetools import Nse
 
-API_KEY='1827323347:AAEzgY10tt4R9SxdBPMxpO5gEcrEd-CkRxU'
+API_KEY='1'
 
 bot = telebot.TeleBot(API_KEY)
 
